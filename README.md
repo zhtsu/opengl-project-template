@@ -1,10 +1,10 @@
 # OpenGL Project Template
 This is a OpenGL project template what using CMake + MinGW.
 
-# Environment
+## Environment
 - Windows 10 or later
 - CMake
 - MinGW64
 
-# How to Run
+## How to Run
 Double-click scripts/Build.bat
