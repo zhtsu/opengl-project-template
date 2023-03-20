@@ -1,5 +1,5 @@
 # OpenGL Project Template
-This is a OpenGL project template what using CMake & MinGW.
+This is a OpenGL project template with CMake & MinGW.
 
 ## Environment
 - Windows 10 or later
